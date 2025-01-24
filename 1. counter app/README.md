@@ -37,11 +37,6 @@ A simple **Counter App** built using **React.js** and styled with **Tailwind CSS
    npm run dev
    ```
 
-5. Open your browser and visit:
-   ```
-   http://localhost:3000
-   ```
-
 ## Usage
 
 1. Use the **+** and **-** buttons to increment or decrement the counter value.
@@ -51,17 +46,9 @@ A simple **Counter App** built using **React.js** and styled with **Tailwind CSS
    - The increment button is disabled if the count is 15.
    - A message is displayed when trying to increment beyond 15.
 
-## License
+## Live Demo
 
-This project is licensed under the [MIT License](LICENSE).
-
-## Screenshots
-
-_Add screenshots of your app here for better visualization._
-
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
+Check out the live project here: [Counter App](https://r-counter-app.netlify.app/)
 
 ## Acknowledgments
 
